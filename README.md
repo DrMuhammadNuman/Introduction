@@ -1,4 +1,3 @@
-# Introduction
 👋 Hi, I'm Muhammad Numan,
 I'm an Android Developer passionate about building innovative and efficient mobile applications. With experience in Java, Kotlin, I have developed and published multiple apps on the Google Play Store, including:
 
